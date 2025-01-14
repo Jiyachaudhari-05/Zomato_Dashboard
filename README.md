@@ -29,10 +29,18 @@ This dashboard helps:
 - **Data Sources:**  Sampled datasets with simulated transaction and inventory data for Amazon sales. CSV and Excel data integrated from e-commerce platforms for real-world data insights. <br>
 - **Power Query:**  Automating data transformations and refreshing reports from external sources. Integrating live data sources with APIs. <br>
 
-##  Dashboard Overview 🖼️
+##  Dashboard  🖼️
+- **Index**  <br> <br>
+![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130215.png)
+- **Overview**  <br> <br>
+![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130244.png)
+- **User Performance**  <br> <br>
+![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130306.png)
+- **City Performance**  <br> <br>
+![Dashboard Screenshot](https://github.com/Jiyachaudhari-05/Zomato_Dashboard/blob/main/Images/Screenshot%202025-01-14%20130322.png)
 
-![Dashboard Screenshot](./path-to-your-image/Screenshot.png)
 <br>
+
 ## Insights 📈 <br>
 -**Regional Performance:** Tirupati leads in sales, while Bikaner excels in user engagement (ratings and user base). Significant regional variations exist, highlighting the need for localized strategies. <br>
 -**Product Performance:** (Information on product performance is not available in the provided images. This section would require data on individual dishes or restaurant menus to analyze best-sellers and low-performing items.) <br>
